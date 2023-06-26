@@ -67,6 +67,7 @@
     <Build Include="dbo\Tables\Products.sql" />
     <Build Include="dbo\Tables\ProductCategories.sql" />
     <None Include="Scripts\Migrations\1.Database.publish.sql" />
+    <None Include="Scripts\SelectAllProductsWithCategoryName.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\PostDeployment\1.AddData.sql" />
