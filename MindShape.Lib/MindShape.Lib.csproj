@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>MindShape.Lib</PackageId>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/VladislavKoryavko/MdTasks</RepositoryUrl>
+  </PropertyGroup>
+
 </Project>
