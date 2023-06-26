@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{
 		.github\workflows\ci.yml = .github\workflows\ci.yml
 	EndProjectSection
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{032A38A2-3858-467C-9927-5F0C2EDEAF67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,12 @@ Global
 		{18A2C779-0775-4FF0-B735-8CDDAB3E6204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18A2C779-0775-4FF0-B735-8CDDAB3E6204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18A2C779-0775-4FF0-B735-8CDDAB3E6204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{032A38A2-3858-467C-9927-5F0C2EDEAF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032A38A2-3858-467C-9927-5F0C2EDEAF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032A38A2-3858-467C-9927-5F0C2EDEAF67}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{032A38A2-3858-467C-9927-5F0C2EDEAF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032A38A2-3858-467C-9927-5F0C2EDEAF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{032A38A2-3858-467C-9927-5F0C2EDEAF67}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
